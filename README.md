@@ -2,6 +2,10 @@
 
 ## Steam VR Games
 As part of the Triple Ten Code Pudding competition, we are presenting the findings of Industry trends in VR Games.
+
+## Team Name:
+Datalytics
+
 ## The Team
 #### [Haseeb Shaukat Vohra](https://www.linkedin.com/in/haseebshaukat)
 #### [Mary Ford](https://www.linkedin.com/in/mary-helen-ford/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
